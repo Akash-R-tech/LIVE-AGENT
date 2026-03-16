@@ -1,0 +1,8 @@
+{
+  "name": "AI Emotional Voice Interactive Bot",
+  "description": "A real-time voice conversational bot that listens, understands emotions, and responds with expressive speech using Gemini's native audio capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
